@@ -1,0 +1,4 @@
+pyyaml==6.0
+pyyaml_env_tag==0.1
+mkdocs-material==7.3.*
+pymdown-extensions==9.*
